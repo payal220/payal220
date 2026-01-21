@@ -88,13 +88,13 @@ Here are some ideas to get you started:
 
 ## 💡 Random Dev Quote
 
-<div>
+<div align='center'>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
 ---
 
-<div>
+<div align='center'>
   <img src="https://komarev.com/ghpvc/?username=payal220&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
