@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 ## 🤝 Connect with Me
 
-<div>
+<div align='center'>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/payal-p-9112b737b/)
 
@@ -86,13 +86,7 @@ Here are some ideas to get you started:
 
 
 
-## 💡 Random Dev Quote
-
-<div align='center'>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
----
+## 💡 
 
 <div align='center'>
   <img src="https://komarev.com/ghpvc/?username=payal220&color=blueviolet&style=for-the-badge" alt="Profile Views" />
