@@ -1,4 +1,4 @@
-## Hi there, I'm Payal👋
+# Hi there, I'm Payal👋
 
 <!--
 **payal220/payal220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,9 +20,6 @@ Here are some ideas to get you started:
     alt="Snake animation"
   />
 </div>
-
-
-# Hi there! 👋 I'm [Your Name]
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
@@ -95,24 +92,7 @@ Here are some ideas to get you started:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:payalpal2209@gmail.com)
 
-</div>
-<section id="contact" class="contact-section">
-      <div class="lantern-decoration left" style='position: absolute;
-  top: 20%;
-  width: 60px;
-  height: 80px;
-  background: radial-gradient(circle, #ffaa55 20%, rgba(255, 100, 0, 0.2) 70%);
-  border-radius: 10px;
-  box-shadow: 0 0 40px #ffaa55;
-  animation: float 4s ease-in-out infinite;'></div>
-      <div class="lantern-decoration right" style="position: absolute;
-  top: 20%;
-  width: 60px;
-  height: 80px;
-  background: radial-gradient(circle, #ffaa55 20%, rgba(255, 100, 0, 0.2) 70%);
-  border-radius: 10px;
-  box-shadow: 0 0 40px #ffaa55;
-  animation: float 4s ease-in-out infinite;"></div></section>
+
 
 ## 💡 Random Dev Quote
 
@@ -123,7 +103,7 @@ Here are some ideas to get you started:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=payal220&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
