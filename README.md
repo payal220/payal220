@@ -66,15 +66,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payal220&layout=compact&theme=radical" alt="Top Languages" height="165">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=payal220&theme=radical" alt="GitHub Streak" />
-</div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=payal220&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
 
 ## 📈 Contribution Graph
 
@@ -96,13 +88,13 @@ Here are some ideas to get you started:
 
 ## 💡 Random Dev Quote
 
-<div align="center">
+<div >
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
 ---
 
-<div align="center">
+<div >
   <img src="https://komarev.com/ghpvc/?username=payal220&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
