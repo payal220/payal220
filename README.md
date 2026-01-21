@@ -112,28 +112,7 @@ Here are some ideas to get you started:
   background: radial-gradient(circle, #ffaa55 20%, rgba(255, 100, 0, 0.2) 70%);
   border-radius: 10px;
   box-shadow: 0 0 40px #ffaa55;
-  animation: float 4s ease-in-out infinite;"></div>
-
-      <div class="contact-box">
-        <h2 class="section-title">Summon Me</h2>
-        <p>Ready to build something legendary? Send a message.</p>
-
-        <div class="contact-info">
-          <div class="info-item">
-            <i class="fas fa-envelope"></i>
-            <span>Payalpal2209@gmail.com</span>
-          </div>
-          <div class="info-item">
-            <i class="fab fa-linkedin"></i>
-            <span>https://www.linkedin.com/in/payal-p-9112b737b/</span>
-          </div>
-          <div class="info-item">
-            <i class="fab fa-github"></i>
-            <span>github.com/payal220</span>
-          </div>
-        </div>
-      </div>
-    </section>
+  animation: float 4s ease-in-out infinite;"></div></section>
 
 ## 💡 Random Dev Quote
 
