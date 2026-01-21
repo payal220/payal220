@@ -84,12 +84,7 @@ Here are some ideas to get you started:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:payalpal2209@gmail.com)
 
-
-
-## 💡 
-
-<div align='center'>
-  <img src="https://komarev.com/ghpvc/?username=payal220&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=payal220&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
